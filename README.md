@@ -35,7 +35,7 @@ cd asistente-ia-local
 
             1. Instala Ollama desde [ollama.com](https://ollama.com/)
             2. Descarga el modelo: `ollama pull gemma2:2b`
-            3. Ejecuta este script: `python asistente_ia.py`
+            3. Ejecuta este script: `python grad_ia.py`
 
             ### 📦 Dependencias
 
