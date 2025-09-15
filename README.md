@@ -1,14 +1,6 @@
 # asistente-ia-local
 Interfaz web para interactuar con modelos de lenguaje a través de Ollama, construida con Gradio.
 
-Estructura del proyecto
-
-asistente-ia-local/
-├── asistente_ia.py      # Código principal de la aplicación
-├── requirements.txt     # Dependencias de Python
-├── README.md           # Este archivo
-└── chat_history.db     # Base de datos (se crea automáticamente)
-
 ## Características
 
 - Interfaz web amigable con Gradio
