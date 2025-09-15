@@ -1,0 +1,8 @@
+python grad_ia.py
+
+.\mi_entorno\Scripts\activate
+
+python -m venv mi_entorno
+
+
+cd users\xpite\desktop\ollama-gemma-chatbot-skin
