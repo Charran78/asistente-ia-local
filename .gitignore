@@ -1,0 +1,22 @@
+# Base de datos SQLite
+*.db
+*.sqlite3
+
+# Entornos virtuales
+mi_entorno/
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
