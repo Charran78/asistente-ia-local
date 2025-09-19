@@ -11,16 +11,6 @@ Interfaz web para interactuar con modelos de lenguaje a través de Ollama, const
 - Ajuste de parámetros como temperatura
 - Visualización del historial de conversaciones
 
-## Instalación
-
-1. Clona el repositorio:
-
-git clone https://github.com/charran78/asistente-ia-local.git
-
-cd asistente-ia-local
-
-cd asistente-ia-local
-
 ## 🤖 Acerca de este Asistente
 
 Este es un asistente de IA local construido con:
@@ -30,10 +20,12 @@ Este es un asistente de IA local construido con:
 - **Gemma2:2B**: Modelo de lenguaje de Google
 
 ## 🚀 Instalación y Uso
-
+0. Clona el repositorio: git clone https://github.com/charran78/asistente-ia-local.git
 1. Instala Ollama desde [ollama.com](https://ollama.com/)
 2. Descarga el modelo: `ollama pull gemma2:2b`
-3. Ejecuta este script: `python grad_ia.py`
+3. Crea el entorno virtual.
+4. Instala las dependencias.
+5. Ejecuta este script: `python grad_ia.py`
 
 ## 📦 Dependencias
 
