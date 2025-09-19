@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Asistente IA Local
 
-=======
-# asistente-ia-local 
+## 🤖 Asistente IA Local 🤖
 
 Interfaz web para interactuar con modelos de lenguaje a través de Ollama, construida con Gradio.
 
@@ -17,47 +14,49 @@ Interfaz web para interactuar con modelos de lenguaje a través de Ollama, const
 ## Instalación
 
 1. Clona el repositorio:
-```bash
+
 git clone https://github.com/charran78/asistente-ia-local.git
-<<<<<<< HEAD
-cd asistente-ia-local
-=======
+
 cd asistente-ia-local
 
- ### 🤖 Acerca de este Asistente
+cd asistente-ia-local
 
-            Este es un asistente de IA local construido con:
-            - **Gradio**: Para la interfaz web
-            - **Ollama**: Para ejecutar modelos localmente
-            - **Gemma2:2B**: Modelo de lenguaje de Google
+## 🤖 Acerca de este Asistente
 
-            ### 🚀 Instalación y Uso
+Este es un asistente de IA local construido con:
+        - **Gradio**: Para la interfaz web
+        - **Ollama**: Para ejecutar modelos localmente
+        - **Gemma2:2B**: Modelo de lenguaje de Google
 
-            1. Instala Ollama desde [ollama.com](https://ollama.com/)
-            2. Descarga el modelo: `ollama pull gemma2:2b`
-            3. Ejecuta este script: `python grad_ia.py`
+## 🚀 Instalación y Uso
 
-            ### 📦 Dependencias
+1. Instala Ollama desde [ollama.com](https://ollama.com/)
+2. Descarga el modelo: `ollama pull gemma2:2b`
+3. Ejecuta este script: `python grad_ia.py`
 
-            Instala las dependencias con:
-            ```bash
-            pip install -r requirements.txt
-            ```
-            ### Demo
+## 📦 Dependencias
+
+Instala las dependencias con:
+         
+pip install -r requirements.txt
+            
+## Demo
+
 ![Demo](demo.gif)
-            ### 📝 Licencia
 
-            Este proyecto está bajo la Licencia MIT.
+## 📝 Licencia
 
-            ### 👨‍💻 Autor
+Este proyecto está bajo la Licencia MIT.
 
-            Pedro Mencías - 2025
+## 👨‍💻 Autor
 
-            ### 📧 Contacto
+Pedro Mencías - 2025
 
-            [beyond.digital.web@gmail.com](mailto:beyond.digital.web@gmail.com)
+## 📧 Contacto
 
-            Hecho en Asturias con 💓 y {miles de errores}
+[beyond.digital.web@gmail.com](mailto:beyond.digital.web@gmail.com)
+
+Hecho en Asturias con 💓 y {miles de errores}
             """)
 
 
