@@ -23,7 +23,7 @@ Este es un asistente de IA local construido con:
 0. Clona el repositorio: git clone https://github.com/charran78/asistente-ia-local.git
 1. Instala Ollama desde [ollama.com](https://ollama.com/)
 2. Descarga el modelo: `ollama pull gemma2:2b`
-3. Crea el entorno virtual.
+3. Crea el entorno virtual. '.\mi_entorno\Scripts\activate'
 4. Instala las dependencias.
 5. Ejecuta este script: `python grad_ia.py`
 
