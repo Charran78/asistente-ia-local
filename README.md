@@ -24,9 +24,10 @@ cd asistente-ia-local
 ## 🤖 Acerca de este Asistente
 
 Este es un asistente de IA local construido con:
-        - **Gradio**: Para la interfaz web
-        - **Ollama**: Para ejecutar modelos localmente
-        - **Gemma2:2B**: Modelo de lenguaje de Google
+
+- **Gradio**: Para la interfaz web
+- **Ollama**: Para ejecutar modelos localmente
+- **Gemma2:2B**: Modelo de lenguaje de Google
 
 ## 🚀 Instalación y Uso
 
@@ -57,6 +58,5 @@ Pedro Mencías - 2025
 [beyond.digital.web@gmail.com](mailto:beyond.digital.web@gmail.com)
 
 Hecho en Asturias con 💓 y {miles de errores}
-            """)
 
 
