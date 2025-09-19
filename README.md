@@ -2,8 +2,8 @@
 # Asistente IA Local
 
 =======
-# asistente-ia-local
->>>>>>> c0dfb84aae746944da1921d463299935b6014bb9
+# asistente-ia-local 
+
 Interfaz web para interactuar con modelos de lenguaje a través de Ollama, construida con Gradio.
 
 ## Características
@@ -43,7 +43,8 @@ cd asistente-ia-local
             ```bash
             pip install -r requirements.txt
             ```
-
+            ### Demo
+![Demo](demo.gif)
             ### 📝 Licencia
 
             Este proyecto está bajo la Licencia MIT.
@@ -59,4 +60,4 @@ cd asistente-ia-local
             Hecho en Asturias con 💓 y {miles de errores}
             """)
 
->>>>>>> c0dfb84aae746944da1921d463299935b6014bb9
+
