@@ -10,6 +10,7 @@ Interfaz web para interactuar con modelos de lenguaje a través de Ollama, const
 - Soporte para diferentes modelos de Ollama
 - Ajuste de parámetros como temperatura
 - Visualización del historial de conversaciones
+- La velocidad de respuesta y procesamiento del modelo  
 
 ## 🤖 Acerca de este Asistente
 
